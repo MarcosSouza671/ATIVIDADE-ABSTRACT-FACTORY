@@ -1,5 +1,5 @@
 package app;
 
-public interface FabricaTransporte {
+public interface FabricaTransporte { // Declaraç~coa do metodo criarTransporte()
 	Transporte criarTransporte();
 }
